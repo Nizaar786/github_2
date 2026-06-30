@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 today updated tuesday file updated
+=======
+updated file 5 th file
+>>>>>>> 66193bae5966d042766ea8885485cb1facc8e577
